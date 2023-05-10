@@ -1,2 +1,2 @@
 # Pneumonia_Detection
-Applying some image filltering and classification 
+Apply image filltering and classification 
